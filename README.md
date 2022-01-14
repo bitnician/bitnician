@@ -6,11 +6,11 @@ This is the place where I opensource stuff and break things :rofl:
 - ✅ &nbsp;I'm in love with those green checkmarks which appear one by one after running unit tests!
 - 👨‍💻 &nbsp;I have the biggest passion to learn more about blockchain and to keep my skills up to date in the world of blockchain, which is changing day by day.
 
-🔗 &nbsp;**Connect with me**
-
+<!-- 🔗 &nbsp;**Connect with me** -->
+<!--
 <p align="left">
 <a href="https://twitter.com/bitnician" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bitnician" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bitnician" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a> -->
 
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
