@@ -18,7 +18,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 # Latest Blogs 📚
 
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah)](https://medium.com/@omidnikrah)
+[![Behzad Pournouri Medium](https://github-readme-medium.vercel.app/?username=bitnician)](https://medium.com/@bitnician)
 
 # Stats 📈
 
