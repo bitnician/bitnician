@@ -19,7 +19,3 @@ This is the place where I opensource stuff and break things :rofl:
 # Stats 📈
 
 ![Bitnician' GitHub Stats](https://github-readme-stats.vercel.app/api?username=bitnician&count_private=true&show_icons=true&theme=gruvbox)
-
-# Latest Blogs 📚
-
-[![Behzad Pournouri Medium](https://github-readme-medium.vercel.app/?username=bitnician)](https://medium.com/@bitnician&limit=3&rand=251561)
