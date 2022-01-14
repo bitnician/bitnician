@@ -23,17 +23,6 @@ This is the place where I opensource stuff and break things :rofl:
 
 </details>
 
-<details>
-  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
-  <br/>
-  <a href='https://profile.codersrank.io/user/bitnician/'>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=bitnician&padding=30&skills=html,json,javascript,mysql,php,python,reactjs,scss,typescript,vue'>
-  </a>
-
-</details>
-
-<img alt='analytics' src='https://profile-counter.glitch.me/bitnician/count.svg' width='0px'>
-
 # Stats 📈
 
 ![Bitnician' GitHub Stats](https://github-readme-stats.vercel.app/api?username=bitnician&count_private=true&show_icons=true&theme=gruvbox)
