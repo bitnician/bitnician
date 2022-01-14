@@ -18,7 +18,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 # Latest Blogs 📚
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bitnician/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bitnician/6" alt="Recent article #1"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bitnician/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bitnician/6" alt="Recent article #1"></a>
 
 # Stats 📈
 
