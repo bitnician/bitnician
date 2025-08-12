@@ -1,6 +1,6 @@
 ### Hi there
 
-This is the place where I opensource stuff and break things :rofl:
+This is the place where I opensource stuff!
 
 - 🎮 &nbsp;I'm Always focusing on clean codes and structures. It makes developing enjoyable as much as playing a game! :wink:
 - ✅ &nbsp;I'm in love with those green checkmarks which appear one by one after running unit tests!
